@@ -45,7 +45,8 @@ public class Particle {
 
     public void explodeAction(float factor) {
         cx = cx + factor * random.nextInt(mBound.width()) * (random.nextFloat() - 0.5f);
-        cy = cy + factor * random.nextInt(mBound.height() / 2);
+        cx = cx + factor * random.nextInt(mBound.height()) * (random.nextFloat() - 0.5f);
+        //cy = cy + factor * random.nextInt(mBound.height() / 2);
 
         radius = radius - factor * random.nextInt(2);
 
