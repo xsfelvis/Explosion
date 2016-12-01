@@ -69,6 +69,7 @@ public class ParticleFactory {
             }
         }
 
+        bitmap.recycle();
         return particles;
     }
 
