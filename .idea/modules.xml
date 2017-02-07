@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BlikDemo.iml" filepath="$PROJECT_DIR$/BlikDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Explosion.iml" filepath="$PROJECT_DIR$/Explosion.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/explosion/explosion.iml" filepath="$PROJECT_DIR$/explosion/explosion.iml" />
       <module fileurl="file://$PROJECT_DIR$/explosion/explosion.iml" filepath="$PROJECT_DIR$/explosion/explosion.iml" />
     </modules>
   </component>
