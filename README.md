@@ -9,7 +9,10 @@
 ![particleUml](http://ogopjinry.bkt.clouddn.com/Particle.jpeg)
 
 # 使用
-已经单独将粒子动画部分抽成modudle依赖，直接添加依赖即可，或者使用jar包[jar包下载地址](http://ogopjinry.bkt.clouddn.com/explosion.jar)，然后在Actvity中按照如下方式使用即可。
+
+`compile 'com.xsf:Explosion:1.0.0'`
+
+或者使用jar包[jar包下载地址](http://ogopjinry.bkt.clouddn.com/explosion.jar)，然后在Actvity中按照如下方式使用即可。
 
 ``` java
 private ExplosionView explosionView;
